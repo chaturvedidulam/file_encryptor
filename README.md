@@ -110,14 +110,4 @@ FileEncryptor/
 
 ---
 
-## ✨ Authors
 
-- **Sandeep:** Core encryption & file handling (List/Array)  
-- **Chaturvedi:** Hybrid cryptography & key management (Dictionary)  
-- **Neelesh:** GUI & integrity verification (Merkle Tree)  
-- **Ganesh:** AES encryption & audio visualization (Array/Numpy)  
-
----
-
-> _"Security isn’t just about locking files — it’s about designing trust into every bit."_  
-> — **File Encryptor Development Team**
